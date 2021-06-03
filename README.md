@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :shipit:
 
 Checkout some fun things I've worked on:
 - [GitHub Pages with some projects I've worked on](https://bk521234.github.io)
